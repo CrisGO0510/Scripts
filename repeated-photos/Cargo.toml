@@ -1,0 +1,11 @@
+[package]
+name = "repeated-photos"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "*"
+img_hash = "*"
+walkdir = "*"
+rayon = "*"
+fs_extra = "*"
